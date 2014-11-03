@@ -1,0 +1,21 @@
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\bin\Debug\FolderWatcher_WF.exe.config
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.Properties.Resources.resources
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.csproj.GenerateResource.Cache
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\bin\Debug\FolderWatcher_WF.exe
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\bin\Debug\FolderWatcher_WF.pdb
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.exe
+c:\users\andrey\documents\visual studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.pdb
+C:\Users\Andrey\Documents\Visual Studio 2013\Projects\FolderWatcher_WF\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.FolderWatcherForm.resources
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\bin\Debug\FolderWatcher_WF.exe.config
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.exe
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.pdb
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\bin\Debug\FolderWatcher_WF.exe
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\bin\Debug\FolderWatcher_WF.pdb
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.FolderWatcherForm.resources
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.Properties.Resources.resources
+C:\Users\Andrey\Desktop\FolderWatcher-master\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.csproj.GenerateResource.Cache
+C:\Users\Andrey\Desktop\FolderWatcher\FolderWatcher_WF\bin\Debug\FolderWatcher_WF.exe.config
+C:\Users\Andrey\Desktop\FolderWatcher\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.exe
+C:\Users\Andrey\Desktop\FolderWatcher\FolderWatcher_WF\obj\Debug\FolderWatcher_WF.pdb
