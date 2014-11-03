@@ -54,6 +54,9 @@
             // 
             // Open_button
             // 
+            this.Open_button.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.Open_button.Location = new System.Drawing.Point(186, 102);
             this.Open_button.Name = "Open_button";
             this.Open_button.Size = new System.Drawing.Size(175, 48);
